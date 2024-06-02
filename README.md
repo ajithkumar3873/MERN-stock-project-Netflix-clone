@@ -1,6 +1,7 @@
 # MERN-stock-project-Netflix-clone
 
 frontend i have used Html, css, javascript
+<br>
 backend i have used express js, node js, mongodb atles
 
 ![Screenshot 2024-06-02 170030](https://github.com/ajithkumar3873/MERN-stock-project-Netflix-clone/assets/127074798/61b96849-9079-498e-bbba-050973947b05)
