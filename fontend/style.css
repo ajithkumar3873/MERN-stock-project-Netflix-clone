@@ -1,0 +1,24 @@
+#product{
+    display: grid;
+    grid-template-columns: repeat(4,300px);
+    gap: 20px;
+    padding: 50px;
+    padding-left: 120px;
+}
+.card-text{
+    text-indent: 50px;
+}
+
+@media screen and (max-width: 600px) {
+    #product{
+        display: grid;
+        grid-template-columns: repeat(1,300px);
+        gap: 20px;
+        padding: 50px;
+        padding-left: 40px;
+    }
+    .card-text{
+        text-indent: 0;
+    }
+   
+}
