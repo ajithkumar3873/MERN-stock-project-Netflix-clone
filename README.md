@@ -2,9 +2,12 @@
 
 frontend i have used<br>Html <br>css <br>javascript
 <br>
+<br>
 backend i have used <br>express js <br>node js <br>mongodb atles
 <br>
+<br>
 backend run command --> npm run server
+<br>
 <br>
 
 frontend netlify --->https://665c58eb4edce3d50cf27af4--spiffy-faun-41ff14.netlify.app/  
